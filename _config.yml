@@ -1,6 +1,7 @@
 name: party
 favicon: null
 layout_spectrum: 0.8
+title: Party Time
 cta:
   domain: null
   bucket: null
